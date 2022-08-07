@@ -1,1 +1,2 @@
 # odin-recipes
+This is a webpage to display 3 recipes, lasagna, cheese bread, and cornbread muffins. The index page links the recipes which contain an image, description, ingredients, and steps. There are links at the bottom to take you back to the index.
