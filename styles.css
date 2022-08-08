@@ -1,0 +1,35 @@
+* {
+    background-color: beige;
+}
+h1 {
+    font-family: Helvetica, sans-serif;
+    color: rgb(97, 30, 30);
+    font-size: 50px;
+}
+h2 {
+    font-family: Helvetica, sans-serif;
+    color: rgb(97, 30, 30);
+}
+li {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+}
+.recipe {
+    color: rgb(63, 95, 48);
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+}
+p {
+    color: rgb(63, 95, 48);
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+}
+a {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(105, 15, 93);
+}
+img {
+    width: 800px;
+    height: auto;
+}
